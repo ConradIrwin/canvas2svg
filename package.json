@@ -1,6 +1,6 @@
 {
   "name": "canvas2svg-conradirwin",
-  "version": "1.0.14-conrad.2",
+  "version": "1.0.14-conrad.4",
   "description": "My unofficial version of canvas2svg",
   "main": "canvas2svg.js",
   "repository": "git@github.com/ConradIrwin/canvas2svg",
